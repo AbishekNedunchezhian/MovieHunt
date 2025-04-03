@@ -57,5 +57,11 @@ Run the app:npm run dev
 
 The app will run on http://localhost:3000.
 
-### Screen Shots of the projects ###
+### Screen Shots of the project ###
 ![image alt](https://github.com/AbishekNedunchezhian/MovieHunt/blob/2559c513a564b2f541e75324784244bbc9055ff5/Screenshot%202025-04-03%20113845.png)
+![image alt](https://github.com/AbishekNedunchezhian/MovieHunt/blob/4bb5e1e58ea65a61f659652c37a1b0b8df9bd508/Screenshot%202025-04-03%20113944.png)
+
+### Future Improvements ###
+Pagination: Implement pagination to load more movies in each category.
+
+Error Handling: Improve error handling for API calls and display user-friendly error messages.
