@@ -56,3 +56,6 @@ VITE_API_kEY=your_api_key_here
 Run the app:npm run dev
 
 The app will run on http://localhost:3000.
+
+### Screen Shots of the projects ###
+![image alt](https://github.com/AbishekNedunchezhian/MovieHunt/blob/2559c513a564b2f541e75324784244bbc9055ff5/Screenshot%202025-04-03%20113845.png)
